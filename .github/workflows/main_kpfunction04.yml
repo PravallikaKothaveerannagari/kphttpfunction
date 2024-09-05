@@ -40,4 +40,4 @@ jobs:
           app-name: 'kpfunction04'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_88C0598956624974B340172C0DF61EC0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E78DD4ED126426E9B8C4E8125F5DA89 }}
